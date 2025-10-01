@@ -1,0 +1,5 @@
+[tool.ruff]
+
+# settings that ruff formatter will follow
+line-length = 190
+
